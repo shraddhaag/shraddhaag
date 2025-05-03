@@ -6,13 +6,13 @@ I am focused on writing software that isn’t a pain in the ass for the next per
 
 I mainly work with C++ these days. Before this, I primarily worked with Golang, briefly explored Rust and have Python experience. 
 
-[shraddhaag.dev](https://www.shraddhaag.dev) is my home on the internet. You can reach out to me on mail <a href="mailto:contact@shraddhaag.dev" target="_blank" rel="noreferrer">contact@shraddhaag.dev</a> or on [Twitter](https://twitter.com/shraddhaag)! 
+[shraddhaag.dev](https://www.shraddhaag.dev) is my home on the internet. You can reach out to me on mail <a href="mailto:contact@shraddhaag.dev" target="_blank" rel="noreferrer">contact@shraddhaag.dev</a>, on [Bluesky](https://bsky.app/profile/shraddhaag.dev) or on [Twitter](https://twitter.com/shraddhaag)! 
 
 ## Challenges 
 
 Since late last year, I have discovered the joy of solving coding challenges with a strong community presense. 
 
-* [aoc](https://github.com/shraddhaag/aoc) - Solution to Advent of Code 2023 in Golang. 
+* [aoc](https://github.com/shraddhaag/aoc) - Solution to Advent of Code ('23 & '24) in Golang. 
 * [1brc](https://github.com/shraddhaag/1brc) - My take on the One Billion Rows Challenge. 
 
 If you know about more challenges that I should try, please write to me! 
@@ -28,7 +28,7 @@ You can find all my posts [here](https://www.shraddhaag.dev/writing).
 
 ## Talks 
 
-* [How we are Building Hasura Cloud with Hasura (Part II)](https://hasura.io/events/hasura-con-2022/how-we-are-building-hasura-cloud-with-hasura-part-2/). 
+* [P99 Conf \'24 | One Billion Row Challenge in Golang](https://www.youtube.com/watch?v=0KFTMWT8K04). 
 * [Giving back to the Community - Experience with GSoC and Outreachy](https://www.youtube.com/watch?v=40lKmniUKBg&feature=youtu.be).
 
 You can find a complete list [here](https://www.shraddhaag.dev/talks).
